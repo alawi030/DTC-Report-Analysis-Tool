@@ -50,7 +50,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](Licence.txt).
 
 ## Acknowledgements
 
@@ -58,5 +58,5 @@ The Manufacturer DTC Analyzer application was developed using Python and the tki
 
 ## Contact
 
-For any inquiries or questions, please contact Ali Almaliki(mailto:alawilmaliki@gmail.com).
+For any inquiries or questions, please contact [Ali Almaliki](mailto:alawilmaliki@gmail.com).
 
