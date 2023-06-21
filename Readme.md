@@ -1,5 +1,3 @@
-Certainly! Here's an example of a `README.md` file for the given project:
-
 # Manufacturer DTC Analyzer
 
 Manufacturer DTC Analyzer is a GUI application built using Python and tkinter. It allows users to process a summary table by analyzing fault codes and generating corresponding comments based on specific rules.
