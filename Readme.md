@@ -15,7 +15,7 @@ Manufacturer DTC Analyzer is a GUI application built using Python and tkinter. I
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/manufacturer-dtc-analyzer.git
+   git clone https://github.com/alawi030/DTC-Report-Analysis-Tool.git
    ```
 
 2. Navigate to the project directory:
