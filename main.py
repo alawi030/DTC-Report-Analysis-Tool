@@ -39,9 +39,7 @@ class Application(tk.Tk):
 
         start_row_label = tk.Label(self, text="Starting Row:", bg="#f2f2f2", font=("Arial", 12))
         start_row_label.grid(row=2, column=0, sticky="w", padx=10, pady=10)
-        self.start_row_spinbox = tk.Spinbox(self, from_=0, to=100, width=5, font=("Arial", 12), value=2)
-        self.start_row_spinbox.delete(0, "end")
-        self.start_row_spinbox.insert(0, 2)
+        self.start_row_spinbox = tk.Spinbox(self, from_=0, to=100, width=5, font=("Arial", 12))
         self.start_row_spinbox.grid(row=2, column=1, padx=10)
 
     def create_sae_j2012da_widgets(self):
