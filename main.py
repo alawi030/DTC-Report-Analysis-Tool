@@ -73,6 +73,7 @@ class Application(tk.Tk):
     def create_process_button(self):
         process_button = tk.Button(self, text="Process", command=self.process_summary_table, font=("Arial", 14, "bold"), bg="#336699", fg="white")
         process_button.grid(row=8, column=0, columnspan=3, pady=20)
+        pass
 
 
     def create_style(self):
